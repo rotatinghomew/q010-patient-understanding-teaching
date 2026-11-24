@@ -1,0 +1,4 @@
+student_key,encounter_key,specialty,complexity,language,teachback_state,educator_intervention,observer_form,observed_at
+S-09,E-101,medicine,routine,zh,restated-main-point,none,O1,2026-04-05
+S-14,E-115,surgery,complex,zh,no-response,rephrased,O1,2026-04-07
+S-21,E-122,palliative,complex,zh-en,partial-restatement,prompted,O2,2026-04-11
