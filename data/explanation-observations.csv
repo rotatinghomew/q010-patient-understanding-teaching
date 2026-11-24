@@ -2,3 +2,10 @@ student_key,encounter_key,specialty,complexity,language,teachback_state,educator
 S-09,E-101,medicine,routine,zh,restated-main-point,none,O1,2026-04-05
 S-14,E-115,surgery,complex,zh,no-response,rephrased,O1,2026-04-07
 S-21,E-122,palliative,complex,zh-en,partial-restatement,prompted,O2,2026-04-11
+S-09,E-101,medicine,routine,zh,restated-main-point,none,O1,2026-04-18
+S-14,E-115,surgery,complex,zh,restated-main-point,rephrased,O1,2026-04-20
+S-21,E-122,palliative,complex,zh-en,no-response,none,O2,2026-04-25
+S-33,E-141,medicine,moderate,zh,partial-restatement,none,O2,2026-05-02
+S-33,E-152,medicine,complex,zh,restated-main-point,prompted,O2,2026-05-10
+S-48,E-163,surgery,routine,zh,no-response,none,O1,2026-05-12
+S-52,E-171,palliative,complex,zh-en,partial-restatement,rephrased,O2,2026-05-14
